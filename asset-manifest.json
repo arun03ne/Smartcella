@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smartcella/static/css/main.7ddecb4a.css",
+    "main.js": "/Smartcella/static/js/main.abbf7f8d.js",
+    "static/js/488.2c2c4401.chunk.js": "/Smartcella/static/js/488.2c2c4401.chunk.js",
+    "index.html": "/Smartcella/index.html",
+    "main.7ddecb4a.css.map": "/Smartcella/static/css/main.7ddecb4a.css.map",
+    "main.abbf7f8d.js.map": "/Smartcella/static/js/main.abbf7f8d.js.map",
+    "488.2c2c4401.chunk.js.map": "/Smartcella/static/js/488.2c2c4401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ddecb4a.css",
+    "static/js/main.abbf7f8d.js"
+  ]
+}

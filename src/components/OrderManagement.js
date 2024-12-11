@@ -128,7 +128,7 @@ const OrderManagement = () => {
     const extractedData = [];
           
         // Extract the device ID using regex
-        const itemIdMatch = content.match(/SKU:\s*([\w\s-]+)/);
+        const itemIdMatch = content.match(/Name:\s*([\w\s-]+)/);
         const itemId = itemIdMatch ? itemIdMatch[1] : null;
         
         // Extract warehouse ID and shipping cost pairs using regex

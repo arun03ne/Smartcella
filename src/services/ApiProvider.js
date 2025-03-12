@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Use environment variable for flexibility (fall back to the default URL if not set)
-const API_BASE_URL = "http://20.235.182.242";
+const API_BASE_URL = "http://20.75.145.95";
 
 export const uploadOrderInput = async (data, isFile) => {
   try {
